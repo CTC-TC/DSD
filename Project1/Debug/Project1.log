@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\Users\CDJ\Desktop\DSD\Project1\Source.cpp(28,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CDJ\Desktop\DSD\Project1\Source.cpp(97,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CDJ\Desktop\DSD\Project1\Source.cpp(104,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\CDJ\Desktop\DSD\Project1\Source.cpp(124,64): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\CDJ\Desktop\DSD\Project1\Source.cpp(125,68): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\CDJ\Desktop\DSD\Project1\Source.cpp(133,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CDJ\Desktop\DSD\Project1\Source.cpp(137,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CDJ\Desktop\DSD\Project1\Source.cpp(153,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CDJ\Desktop\DSD\Project1\Source.cpp(155,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CDJ\Desktop\DSD\Project1\Source.cpp(159,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CDJ\Desktop\DSD\Project1\Source.cpp(195,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CDJ\Desktop\DSD\Project1\Source.cpp(214,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CDJ\Desktop\DSD\Project1\Source.cpp(220,20): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> C:\Users\CDJ\Desktop\DSD\Project1\Debug\Project1.exe
