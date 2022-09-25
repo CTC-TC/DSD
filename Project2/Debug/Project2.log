@@ -1,5 +1,4 @@
 ﻿  Source.cpp
-C:\Users\CDJ\Desktop\DSD\Project2\Source.cpp(31,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\CDJ\Desktop\DSD\Project2\Source.cpp(89,15): warning C4930: 'std::bitset<32> to_bitset(std::string)': prototyped function not called (was a variable definition intended?)
-C:\Users\CDJ\Desktop\DSD\Project2\Source.cpp(177,21): warning C4018: '<': signed/unsigned mismatch
-  Project2.vcxproj -> C:\Users\CDJ\Desktop\DSD\Project2\Debug\Project2.exe
+D:\DSD\Project2\Source.cpp(21,21): warning C4018: '<': signed/unsigned mismatch
+D:\DSD\Project2\Source.cpp(163,21): warning C4018: '<': signed/unsigned mismatch
+  Project2.vcxproj -> D:\DSD\Project2\Debug\Project2.exe

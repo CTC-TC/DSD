@@ -3,7 +3,6 @@
 #include<string>
 #include<fstream>
 #include<vector>
-#include <algorithm> 
 #include<map>
 
 using namespace std;
