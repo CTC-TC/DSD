@@ -1,4 +1,6 @@
 ﻿  Source.cpp
-D:\DSD\Project2\Source.cpp(21,21): warning C4018: '<': signed/unsigned mismatch
-D:\DSD\Project2\Source.cpp(163,21): warning C4018: '<': signed/unsigned mismatch
+D:\DSD\Project2\Source.cpp(23,21): warning C4018: '<': signed/unsigned mismatch
+D:\DSD\Project2\Source.cpp(111,24): warning C4018: '<': signed/unsigned mismatch
+D:\DSD\Project2\Source.cpp(264,21): warning C4018: '<': signed/unsigned mismatch
+D:\DSD\Project2\Source.cpp(278,20): warning C4018: '<': signed/unsigned mismatch
   Project2.vcxproj -> D:\DSD\Project2\Debug\Project2.exe
