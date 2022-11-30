@@ -1,6 +1,17 @@
-﻿  Source.cpp
-D:\DSD\Project2\Source.cpp(23,21): warning C4018: '<': signed/unsigned mismatch
-D:\DSD\Project2\Source.cpp(111,24): warning C4018: '<': signed/unsigned mismatch
-D:\DSD\Project2\Source.cpp(264,21): warning C4018: '<': signed/unsigned mismatch
-D:\DSD\Project2\Source.cpp(278,20): warning C4018: '<': signed/unsigned mismatch
+﻿  B11015022.cpp
+D:\DSD\Project2\B11015022.cpp(25,21): warning C4018: '<': signed/unsigned mismatch
+D:\DSD\Project2\B11015022.cpp(117,24): warning C4018: '<': signed/unsigned mismatch
+D:\DSD\Project2\B11015022.cpp(209,22): warning C4018: '<': signed/unsigned mismatch
+D:\DSD\Project2\B11015022.cpp(224,30): warning C4018: '<': signed/unsigned mismatch
+D:\DSD\Project2\B11015022.cpp(228,33): warning C4018: '<': signed/unsigned mismatch
+D:\DSD\Project2\B11015022.cpp(241,23): warning C4018: '<': signed/unsigned mismatch
+D:\DSD\Project2\B11015022.cpp(243,24): warning C4018: '<': signed/unsigned mismatch
+D:\DSD\Project2\B11015022.cpp(255,26): warning C4018: '<': signed/unsigned mismatch
+D:\DSD\Project2\B11015022.cpp(285,20): warning C4018: '<': signed/unsigned mismatch
+D:\DSD\Project2\B11015022.cpp(295,20): warning C4018: '<': signed/unsigned mismatch
+D:\DSD\Project2\B11015022.cpp(316,35): warning C4018: '<': signed/unsigned mismatch
+D:\DSD\Project2\B11015022.cpp(361,21): warning C4018: '<': signed/unsigned mismatch
+D:\DSD\Project2\B11015022.cpp(375,20): warning C4018: '<': signed/unsigned mismatch
+D:\DSD\Project2\B11015022.cpp(390,21): warning C4018: '<': signed/unsigned mismatch
+D:\DSD\Project2\B11015022.cpp(394,23): warning C4018: '<': signed/unsigned mismatch
   Project2.vcxproj -> D:\DSD\Project2\Debug\Project2.exe

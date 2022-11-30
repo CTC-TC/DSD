@@ -1,5 +1,4 @@
 #include<iostream>
-#include<stdio.h>
 #include<string>
 #include<fstream>
 #include<vector>
@@ -186,8 +185,6 @@ int main()
 	//------------------------------------------以上將圖表化簡-------------------------------------------//
 	ofstream ofs;
 	ofs.open("output.dot");
-
-
 	ofs << "digraph ROBDD{" << endl;
 	for (int i = 0; i < inputVolume; i++)
 	{
